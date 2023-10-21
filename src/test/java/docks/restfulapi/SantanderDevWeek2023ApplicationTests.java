@@ -1,4 +1,4 @@
-package docks.api.santanderdevweek2023;
+package docks.restfulapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

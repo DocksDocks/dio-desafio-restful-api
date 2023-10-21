@@ -1,4 +1,4 @@
-package docks.api.santanderdevweek2023.domain.model;
+package docks.restfulapi.domain.model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
