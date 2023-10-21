@@ -1,4 +1,4 @@
-package docks.restfulapi;
+package docks.restfulapi.service;
 
 import java.util.List;
 
