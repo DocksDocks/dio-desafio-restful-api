@@ -5,7 +5,7 @@
       <env name="SPRING_PROFILES_ACTIVE" value="dev" />
     </envs>
     <option name="MAIN_CLASS_NAME" value="docks.restfulapi.Application" />
-    <module name="santander-dev-week-2023.main" />
+    <module name="dio-desafio-restful-api.main" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
